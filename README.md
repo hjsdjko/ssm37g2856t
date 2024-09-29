@@ -1,14 +1,5 @@
----
-
 <div id="title" align=center>
 
-**【爱毕设】助力每一位年轻人的梦！！！**
-
-</div>
-
----
-
-<div id="title" align=center>
 
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E7%88%B1%E6%AF%95%E8%AE%BE%E5%AE%98%E7%BD%91-yello)](http://jsxs1.cn)
 
